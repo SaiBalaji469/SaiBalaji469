@@ -4,7 +4,7 @@
 I'm a passionate **Full-Stack Web Developer** with experience in building scalable and user-friendly applications. I specialize in **MERN Stack** development and have a strong foundation in **Python, JavaScript, and Java**. With a background in **Mechanical Engineering (B.Tech, 92%)**, I have developed an analytical approach to problem-solving and software development.
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript (DSA), Python, Java, HTML, CSS, SQL
+- **Languages:** JavaScript (DSA), Python, Java, Javascript, HTML, CSS, SQL
 - **Frontend:** React.js, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap
 - **Backend:** Node.js, Express.js, Firebase, JWT Authentication
 - **Database:** MongoDB, MySQL
