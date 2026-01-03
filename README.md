@@ -1,8 +1,7 @@
 # Hi, I'm Sai Balaji 👋
 
 ## 🚀 About Me
-I'm a passionate **Full-Stack Web Developer** with experience in building scalable and user-friendly applications. I specialize in **MERN Stack** development and have a strong foundation in **Python, JavaScript, and Java**. With a background in **Mechanical Engineering (B.Tech, 92%)**, I have developed an analytical approach to problem-solving and software development.
-
+I’m a passionate Full-Stack Web Developer and Trainer with hands-on experience in building scalable, user-friendly applications. I specialize in MERN Stack development and also work as a MERN Stack & Python Full-Stack Trainer, helping learners understand both frontend and backend concepts with real-world projects. I have a strong foundation in Python, JavaScript, and Java. With a background in Mechanical Engineering (B.Tech, 92%), I bring a strong analytical mindset and structured problem-solving approach to software development and technical training.
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript (DSA), Python, Java, Javascript, HTML, CSS, SQL
 - **Frontend:** React.js, Redux Toolkit, Tailwind CSS, Material UI, Bootstrap
