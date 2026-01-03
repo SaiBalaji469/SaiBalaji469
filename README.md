@@ -52,10 +52,6 @@ A web-based URL shortening service with:
 - Built and optimized web projects for the curriculum using **React, Node.js, and MongoDB**.
 - Improved **course tracking and assessment features** for better user experience.
 
-### Video Editor @ Raudra EduServices Pvt. Ltd. (08/2023 - 03/2025)
-- Edited educational videos and podcasts using **Adobe Premiere Pro, After Effects, and Photoshop**.
-- Enhanced **video engagement** through professional post-production editing.
-
 ## 📜 Certifications
 - **Web Development Bootcamp - Udemy**
 - **100 Days of Code - Python**
